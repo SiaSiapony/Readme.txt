@@ -11,7 +11,9 @@
  * [Pygame v 1.9.5](https://www.pygame.org/download.shtml)
 ### How to Run ?
  Install Python and then Pygame. Run play.pyw through command-line interface.
-  ```python play.pyw```
+ 
+  ```   python play.pyw   ```
+  
 ## Authors
  1. Kwanjira Kakate        610510678
  2. Nuttanon Prabaripay    610510685
