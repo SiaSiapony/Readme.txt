@@ -1,5 +1,5 @@
 # Project for 204113 #
-Project Freshy for 204113 : Principle Of Computing (Group 5)
+## Project Freshy for 204113 : Principle Of Computing (Group 5)
 Computer Science Department, Faculty Of Science 
 Chiang Mai University.
 ### What we do ?
