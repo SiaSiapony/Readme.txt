@@ -12,7 +12,8 @@
 ### How to Run ?
  Install Python and then Pygame. Run play.pyw through command-line interface.
  
-  ```   python play.pyw   ```
+  ```   python play.pyw  
+  ```
   
 ## Authors
  1. Kwanjira Kakate        610510678
