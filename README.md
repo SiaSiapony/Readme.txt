@@ -17,5 +17,4 @@
  5. Nichamon Yomratchawong ID:610510802
  6. Sittha Sinprasat ID:610510815
 ### Poster
-[Image]
 ![Alt text](https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png)
