@@ -19,4 +19,4 @@
  5. Nichamon Yomratchawong 610510802
  6. Sittha Sinprasat       610510815
 # Poster
-   ![Alt text](<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png' border='0' alt='58689401-678840299186037-1647299474764070912-n'/></a>) 
+(<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png' border='0' alt='58689401-678840299186037-1647299474764070912-n'/></a>) 
