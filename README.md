@@ -5,8 +5,8 @@
 ### What we do ?
  Our group has made games about farm and steal. Name Game is FARMER & THIEF 
 ### Install and Requirement
- 1. Python 3.7 
- 2. Pygame v 1.9.5
+ * Python 3.7 
+ * Pygame v 1.9.5
 ### How to Run ?
  Install Python and then Pygame. Run play.pyw through command-line interface.
 ### Authors
