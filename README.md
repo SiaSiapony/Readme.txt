@@ -1,4 +1,4 @@
-# Project for 204113 #
+# Project for 204113 
  Project Freshy for 204113 : Principle Of Computing (Group 5)
  Computer Science Department, Faculty Of Science 
  Chiang Mai University.
@@ -17,4 +17,4 @@
  5. Nichamon Yomratchawong ID:610510802
  6. Sittha Sinprasat ID:610510815
 ### Poster
-### ![Alt text](https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png) ###
+ ![Alt text](https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png) 
