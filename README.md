@@ -18,4 +18,4 @@
  6. Sittha Sinprasat ID:610510815
 ### Poster
 [Image]
-Format: ![Alt text](https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png)
+![Alt text](https://i.postimg.cc/XvqsN0rw/58689401-678840299186037-1647299474764070912-n.png)
